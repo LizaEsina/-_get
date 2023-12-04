@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+#carouselExampleCaptions {
+  width: 900px;
+  height: 500px;
+  align-items: center;
+}
+
+.carousel-item.active,
+.carousel-item {
+  width:900px;
+  height: 500px;
+  align-items: center;
+}
+
